@@ -9,3 +9,5 @@ Run makeqr.py.
 Input URL or Text.
 
 Input file name.(Do not have to input extension)
+
+※You have to connect internert.
